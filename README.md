@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I'm Khilesh Thakur,
 ### *"Turning ideas into efficient, scalable, and impactful code. 🚀"*
 #### I'm a Full-Stack Developer skilled in MERN stack and Java Spring Boot. I enjoy building applications with clean, efficient code and exploring new technologies.<br><br>
 
